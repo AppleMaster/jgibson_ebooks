@@ -1,20 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @stellasoft-jim
- Watch 1
-  Star 0
- Fork 60 petejscott/kyofu_ebooks
-forked from tommeagher/heroku_ebooks
- Code  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathkyofu_ebooks/markov3.py
-81dfb02  on Nov 2, 2014
-@petejscott petejscott When finding random starting word, loop until we get one starting wit…
-1 contributor
-RawBlameHistory     60 lines (51 sloc)  1.97 KB
 import random
 
 class MarkovChainer(object):
@@ -75,5 +58,3 @@ class MarkovChainer(object):
 
 if __name__ == "__main__":
     print "Try running ebooks.py first"
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
