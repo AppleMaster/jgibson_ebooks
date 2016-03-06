@@ -72,6 +72,7 @@ if __name__=="__main__":
         else:
             source_tweets = []
             for handle in SOURCE_ACCOUNTS:
+				print "What the dicks";
                 user=handle
                 api=connect()
                 max_id=None
