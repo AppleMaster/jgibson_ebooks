@@ -3,8 +3,8 @@ Local Settings for a heroku_ebooks account. #fill in the name of the account you
 '''
 
 #configuration
-MY_CONSUMER_KEY = 'cH6NttiAoLbE7IL9SCmuMPtb8'
-MY_CONSUMER_SECRET = 'xGPca4C5CwlDdcHrCLIAyz86pYFdvBn4dScineb1jQKIHegMHW'
+MY_CONSUMER_KEY = 'klla90LUQikptTUZWApxg2oDg'
+MY_CONSUMER_SECRET = 'xnuUsYOFqHHXDMARoyGKT4xJIxXJf1QVNl2MBJ1MUTbt1kKHbW'
 MY_ACCESS_TOKEN_KEY = '706461719594475520-t0sWT6KuGzqnIqnBUMj8hVZRm4CSXmB'
 MY_ACCESS_TOKEN_SECRET = '	8UBipyh4B3pvFRp453HSL13lZMD4JN6hIG56hWOeBLdN4'
 
